@@ -1,0 +1,32 @@
+body{ /*Informações GERAIS do corpo*/
+    background-color: rgba(253, 251, 245, 1);
+    font-family: "Kameron", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    color:rgba(24, 62, 100, 1);;
+}
+
+h2 {
+    text-align: center;
+}
+
+.imagem1{ /*Características da imagem*/
+    width: 70%;
+    margin: auto;
+}
+.imagem2{ /*Características da imagem*/
+    width: 60%;
+    margin: auto;
+}
+.imagem3{ /*Características da imagem*/
+    width: 30%;
+    margin: auto;
+}
+.imagem4{ /*Características da imagem*/
+    width: 55%;
+    margin: auto;
+}
+.imagem5{ /*Características da imagem*/
+    width: 20%;
+    margin: auto;
+}
